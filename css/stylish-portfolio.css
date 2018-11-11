@@ -251,6 +251,7 @@ h6 {
   top: 0;
   bottom: 0;
   z-index: 1;
+  background-color: #00000094;
 }
 
 .portfolio-item .caption .caption-content {
@@ -404,4 +405,9 @@ a:hover, a:focus, a:active {
 .skill-icon-excel
 {
   background-image: url(../img/excel-icon.png);
+}
+
+.font-size-custom-small
+{
+  font-size: 1em !important;
 }
